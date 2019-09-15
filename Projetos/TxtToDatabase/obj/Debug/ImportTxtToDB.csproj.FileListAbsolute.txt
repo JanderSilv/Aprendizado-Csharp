@@ -1,0 +1,7 @@
+D:\Jander Silva\Documents\VS Projects\ImportTxtToDB\bin\Debug\ImportTxtToDB.exe.config
+D:\Jander Silva\Documents\VS Projects\ImportTxtToDB\bin\Debug\ImportTxtToDB.exe
+D:\Jander Silva\Documents\VS Projects\ImportTxtToDB\bin\Debug\ImportTxtToDB.pdb
+D:\Jander Silva\Documents\VS Projects\ImportTxtToDB\obj\Debug\ImportTxtToDB.csprojAssemblyReference.cache
+D:\Jander Silva\Documents\VS Projects\ImportTxtToDB\obj\Debug\ImportTxtToDB.csproj.CoreCompileInputs.cache
+D:\Jander Silva\Documents\VS Projects\ImportTxtToDB\obj\Debug\ImportTxtToDB.exe
+D:\Jander Silva\Documents\VS Projects\ImportTxtToDB\obj\Debug\ImportTxtToDB.pdb

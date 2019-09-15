@@ -1,0 +1,1 @@
+Algoritmo que pega dados a partir de um TXT com formatação definida e insere os dados em um banco SQL SERVER.
